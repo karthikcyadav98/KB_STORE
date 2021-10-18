@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KB_STORE</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">TOIioW4id5BNwmbt3BUKZHEzLmNyvI2V8A_br</string>
+</resources>
